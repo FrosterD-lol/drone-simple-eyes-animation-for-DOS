@@ -26,7 +26,7 @@ struct ColorIndex colors_index[] = {
     {5, "uzi"},   // Purple 
     {4, "doll"},  // Red
     {7, "white"}, // DOS
-    {14, "dd"},    // Yellow (Default)
+    {14, "dd"},   // Yellow (Default)
     {1, "blue"}   // Blue
 };
 
